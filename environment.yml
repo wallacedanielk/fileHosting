@@ -108,5 +108,6 @@ dependencies:
       - scikit-learn==1.2.2
       - scipy==1.10.1
       - threadpoolctl==3.1.0
+      - xgboost==1.7.5
       - zipp==3.15.0
 prefix: C:\Users\walla\anaconda3\envs\Midterm-env
